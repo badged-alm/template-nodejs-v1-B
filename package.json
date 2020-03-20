@@ -1,0 +1,28 @@
+{
+  "name": "good-nodejs-configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesgarpas/good-nodejs-configuration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesgarpas/good-nodejs-configuration/issues"
+  },
+  "homepage": "https://github.com/cesgarpas/good-nodejs-configuration#readme",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "standard": "^14.3.3"
+  },
+  "standard": {
+    "ignore": [
+      "/tests/**"
+    ]
+  }
+}
