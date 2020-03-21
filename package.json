@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "standard && jest --coverage"
+    "test": "semistandard && jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
   "homepage": "https://github.com/cesgarpas/good-nodejs-configuration#readme",
   "devDependencies": {
     "jest": "^25.1.0",
-    "standard": "^14.3.3"
+    "semistandard": "^14.2.0"
   },
-  "standard": {
+  "semistandard": {
     "ignore": [
       "/tests/**"
     ]
