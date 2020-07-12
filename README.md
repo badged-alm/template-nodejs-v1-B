@@ -5,4 +5,4 @@
 [![dependencies Status](https://david-dm.org/badged-alm/good-nodejs-configuration/status.svg)](https://david-dm.org/badged-alm/template-nodejs-v1-B)
 [![devDependencies Status](https://david-dm.org/badged-alm/good-nodejs-configuration/dev-status.svg)](https://david-dm.org/badged-alm/template-nodejs-v1-B)
 
-This is a really simple node.js project configuration. It packs Jest for functional testing and test coverage and it is using standard.js as linter with semistandard specification. Also has a david-dm badge to stay informed about dependency updates. It has an active GitHub Actions workflow for node.js testing.
+This is a really simple node.js project configuration. It packs **Jest** for functional testing and test coverage tracked by **Coveralls** and it is using **standard.js** as linter with **semistandard** specification. Also has a **david-dm** badge to stay informed about dependency updates. It has an active **GitHub Actions** workflow for node.js testing.
