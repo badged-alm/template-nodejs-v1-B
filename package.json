@@ -1,5 +1,5 @@
 {
-  "name": "good-nodejs-configuration",
+  "name": "template-nodejs-v1-B",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cesgarpas/good-nodejs-configuration.git"
+    "url": "git+https://github.com/badged-alm/template-nodejs-v1-B.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cesgarpas/good-nodejs-configuration/issues"
+    "url": "https://github.com/badged-alm/template-nodejs-v1-B/issues"
   },
-  "homepage": "https://github.com/cesgarpas/good-nodejs-configuration#readme",
+  "homepage": "https://github.com/badged-alm/template-nodejs-v1-B#readme",
   "devDependencies": {
     "jest": "^25.1.0",
     "semistandard": "^14.2.0"
