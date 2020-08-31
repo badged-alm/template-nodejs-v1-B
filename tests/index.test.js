@@ -1,5 +1,5 @@
-const index = require('../index.js')
+const index = require('../index.js');
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(index.addTwoNumbers(1, 2)).toBe(3)
-})
+test('main returns 1', () => {
+  expect(index.main()).toBe(1);
+});

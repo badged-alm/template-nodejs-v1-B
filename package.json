@@ -1,10 +1,12 @@
 {
-  "name": "template-nodejs-v1-B",
+  "name": "template-nodejs-v1-b",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "semistandard && jest --coverage"
+    "test": "semistandard && jest --coverage",
+    "lint": "semistandard",
+    "lint-fix": "semistandard --fix"
   },
   "repository": {
     "type": "git",
